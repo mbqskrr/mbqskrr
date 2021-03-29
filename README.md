@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbqskrr
 - 👀 I’m interested in IA, data bases
-- 🌱 I’m currently learning Data bases, SW architecture
+- 🌱 I’m currently learning Data bases
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mbalantaq@gmail.com
 
