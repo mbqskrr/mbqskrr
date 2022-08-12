@@ -6,7 +6,7 @@ Web Developer and Mobile Developer
 
 * 🌍  I'm based in Cali, Colombia
 * ✉️  You can contact me at [mbalantaq@gmail.com](mailto:mbalantaq@gmail.com)
-* 🧠  I'm learning React and Spring
+* 🧠  I'm learning React and Spring Boot
 * 🤝  I'm open to collaborating on Data science, web development and mobile development
 * ⚡  I'm a JoJo fan
 
