@@ -1,7 +1,7 @@
 Hi 👋 My name is Manuel Balanta
 ===============================
 
-Web Developer and Mobile Developer
+Backend Developer
 ----------------------------------
 
 * 🌍  I'm based in Cali, Colombia
